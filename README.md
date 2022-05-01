@@ -9,6 +9,7 @@ Bell 13 (FRED) bought at The Range 22/04/2022
 https://thebellsofsussex.weebly.com/my-mini-ring.html
 Bell 10 (OLIVER) bought at Copthorne Garden Center. Donor - Oliver E P Watson 30/04/2022
 Bells now form a diatonic 4 with a sharp treble OR tuning (2-5) of 8.
+Bell 9 (DAFFODIL) bought at B&Q along with a door knob which will be the clapper ball fro bell 12. The bells now form a front 5 of an 8 meaning there is currently a true ring of 4. Notes are: F#,F,D#,C#,B.
 
 Potential 16 Bell frame layout created 23/04/2022. Did some design work looking at hanging the bells on one level, but have not yet thought of a 2-tier frame that would work.  We have considered hanging odds above and evens below (or vice versa) but this may lead to the bells on the top tier, especially the lighter ones, being very quiet, resulting in a sort of 'ding DING ding DING ding DING'. In which case, it may be a better idea to have the back bells on the uper tier, as they will be louder and more boomy anyway.
 
