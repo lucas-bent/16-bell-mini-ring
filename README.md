@@ -35,7 +35,7 @@ Potential 16 Bell frame layout created 23/04/2022. Did some design work looking 
 
 <html>
   <body>
-    <audio controls>
+    <audio controls autoplay>
       <source src="https://thebellsofsussex.weebly.com/uploads/1/4/1/9/141945876/screen_recording_20220414-212622_voice_recorder.mp3" type="audio/mp3">
     </audio>
   </body>
