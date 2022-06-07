@@ -22,6 +22,7 @@ The found side of the door knob was sanded down to have a flat top. A wooden dow
 Potential 16 Bell frame layout created 23/04/2022. Did some design work looking at hanging the bells on one level, but have not yet thought of a 2-tier frame that would work.  We have considered hanging odds above and evens below (or vice versa) but this may lead to the bells on the top tier, especially the lighter ones, being very quiet, resulting in a sort of 'ding DING ding DING ding DING'. In which case, it may be a better idea to have the back bells on the uper tier, as they will be louder and more boomy anyway.
 
 **Bell Inscriptions:**
+
 09: IN CAMPANIS FLORALIBUS / MMXXII:A.D / ◆DAFFODIL◆ / xTHO:I:AM:TINYx / xI:HAVE:A:BIG:VOICEx / (Plate, LXXXIV,a) / IX
 
 10: IN CAMPANIS FLORALIBUS / MMXXII / ◆OLIVER◆ / DO NOT BE AFRAID, / FOR THE ISLE IS / FULL OF NOISES / (Plate, LXXXIV,a) / X
@@ -31,3 +32,11 @@ Potential 16 Bell frame layout created 23/04/2022. Did some design work looking 
 12: IN CAMPANIS FLORALIBUS / MMXXII / ◆PRAYER◆ / HAEC . CAMPANA . NOMINATUR / PROPTER . MAGNAM . CAMPANAM / CRAWLEY / (Plate, LXXXIV,a) / XII
 
 13: IN CAMPANIS FLORALIBUS / MMXXII / ◆FRED◆ / x CARPE x DIEM x / (Plate, LXXXIV,b) / (Plate, LXXXIV,a) / XIII
+
+<html>
+  <body>
+    <audio controls>
+      <source src="https://thebellsofsussex.weebly.com/uploads/1/4/1/9/141945876/screen_recording_20220414-212622_voice_recorder.mp3" type="audio/mp3">
+    </audio>
+  </body>
+</html>
