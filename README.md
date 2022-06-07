@@ -16,10 +16,14 @@ A true diatonic is now formed
 Tuning now 1-5 of 8.
 The found side of the door knob was sanded down to have a flat top. A wooden dowell was also sanded at the end to roughen it up. The two parts have now been glued together and just need to dry.
 
+07/06/2022, the current treble has been inscribed and has been named DAFFODIL.
+
 **Frame:**
 Potential 16 Bell frame layout created 23/04/2022. Did some design work looking at hanging the bells on one level, but have not yet thought of a 2-tier frame that would work.  We have considered hanging odds above and evens below (or vice versa) but this may lead to the bells on the top tier, especially the lighter ones, being very quiet, resulting in a sort of 'ding DING ding DING ding DING'. In which case, it may be a better idea to have the back bells on the uper tier, as they will be louder and more boomy anyway.
 
 **Bell Inscriptions:**
+09: IN CAMPANIS FLORALIBUS / MMXXII:A.D / ◆DAFFODIL◆ / xTHO:I:AM:TINYx / xI:HAVE:A:BIG:VOICEx / (Plate, LXXXIV,a) / IX
+
 10: IN CAMPANIS FLORALIBUS / MMXXII / ◆OLIVER◆ / DO NOT BE AFRAID, / FOR THE ISLE IS / FULL OF NOISES / (Plate, LXXXIV,a) / X
 
 11: IN CAMPANIS FLORALIBUS / MMXXII / ◆BLUEBELL◆ / AMOR VINCIT OMNIA / (Plate, LXXXIV,a) / XI
