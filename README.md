@@ -32,11 +32,3 @@ Potential 16 Bell frame layout created 23/04/2022. Did some design work looking 
 12: IN CAMPANIS FLORALIBUS / MMXXII / ◆PRAYER◆ / HAEC . CAMPANA . NOMINATUR / PROPTER . MAGNAM . CAMPANAM / CRAWLEY / (Plate, LXXXIV,a) / XII
 
 13: IN CAMPANIS FLORALIBUS / MMXXII / ◆FRED◆ / x CARPE x DIEM x / (Plate, LXXXIV,b) / (Plate, LXXXIV,a) / XIII
-
-<html>
-  <body>
-    <audio controls autoplay>
-      <source src="https://thebellsofsussex.weebly.com/uploads/1/4/1/9/141945876/screen_recording_20220414-212622_voice_recorder.mp3" type="audio/mp3">
-    </audio>
-  </body>
-</html>
