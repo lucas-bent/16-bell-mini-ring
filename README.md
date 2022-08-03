@@ -18,6 +18,12 @@ The found side of the door knob was sanded down to have a flat top. A wooden dow
 
 07/06/2022, the current treble has been inscribed and has been named DAFFODIL.
 
+31/07/2022, the current 6th was donated by Fred Mills as a birthday present.
+
+03/08/2022, the current 6th was weighed and measured. The weight of this bell is 5lbs 0.5oz and measures 11.00" in diameter. The nominal was analysed through wavanal: 928.5Hz - Bb-6
+
+03/08/2022, the bells now form the tuning 1-6 of an 8.
+
 **Frame:**
 Potential 16 Bell frame layout created 23/04/2022. Did some design work looking at hanging the bells on one level, but have not yet thought of a 2-tier frame that would work.  We have considered hanging odds above and evens below (or vice versa) but this may lead to the bells on the top tier, especially the lighter ones, being very quiet, resulting in a sort of 'ding DING ding DING ding DING'. In which case, it may be a better idea to have the back bells on the uper tier, as they will be louder and more boomy anyway.
 
